@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1313017496"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiE:\TIC\Lazarus\Números pares hasta el 20\lib\x86_64-win64&quot; &quot;-FuE:\TIC\Lazarus\Números pares hasta el 20\&quot; &quot;-FUE:\TIC\Lazarus\Números pares hasta el 20\lib\x86_64-win64\&quot; &quot;-FEE:\TIC\Lazarus\Números pares hasta el 20\&quot; &quot;-oE:\TIC\Lazarus\Números pares hasta el 20\Project1.exe&quot; Project1.pas"/>
+</CONFIG>
