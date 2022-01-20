@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1313017496"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\Users\usuario\Desktop\Lazarus\División\lib\x86_64-win64 -FuC:\Users\usuario\Desktop\Lazarus\División\ -FUC:\Users\usuario\Desktop\Lazarus\División\lib\x86_64-win64\ -FEC:\Users\usuario\Desktop\Lazarus\División\ -oC:\Users\usuario\Desktop\Lazarus\División\Project1.exe Project1.pas"/>
-</CONFIG>
